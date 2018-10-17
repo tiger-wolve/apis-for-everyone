@@ -4,7 +4,7 @@ A collective list of free APIs for use in software and web development.
 
 Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
 
-## Index
+### Index
 
 * [Animals](#animals)
 * [Anime](#anime)
@@ -807,3 +807,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Storm Glass](https://stormglass.io/) | Global marine weather from multiple sources | `apiKey` | Yes | Yes |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [Yahoo! Weather](https://developer.yahoo.com/weather/) | Weather | `apiKey` | Yes | Unknown |
+
+
+Go back to [{Index}](#index)
